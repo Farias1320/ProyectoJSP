@@ -17,6 +17,12 @@
 Sistema web desarrollado en **Java EE** utilizando **JSP** y **Servlets** que implementa un registro de estudiantes para cursos virtuales. La aplicación sigue el patrón **MVC** (Modelo-Vista-Controlador) y simula una base de datos en memoria usando `ArrayList`.
 
 ---
+## Arquitectura
+
+### Estructura del Proyecto
+![Vista previa](imágenes/image.png)
+
+---
 
 ## Características
 
