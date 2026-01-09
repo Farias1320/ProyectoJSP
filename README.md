@@ -30,5 +30,10 @@ Sistema web desarrollado en **Java EE** utilizando **JSP** y **Servlets** que im
 
 ---
 
-## Arquitectura
+## Instalación
 
+### **Requisitos**
+- Java JDK 17 o superior
+- Apache NetBeans 15+
+- Apache Tomcat 
+- Git (opcional)
