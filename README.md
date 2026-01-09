@@ -7,8 +7,8 @@
 ![Apache Tomcat](https://img.shields.io/badge/Apache%20Tomcat-F8DC75?style=for-the-badge&logo=apache-tomcat&logoColor=black)
 
 **Aplicación web completa para gestión de estudiantes en cursos virtuales**
-![Vista previa](imágenes/image1.png)
 ![Vista previa](imágenes/image2.png)
+![Vista previa](imágenes/image1.png)
 
 </div>
 
