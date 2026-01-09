@@ -1,4 +1,4 @@
-# 🎓 Sistema de Registro de Estudiantes - JSP/Servlets
+# Sistema de Registro de Estudiantes - JSP/Servlets
 
 <div align="center">
 
@@ -8,17 +8,17 @@
 
 **Aplicación web completa para gestión de estudiantes en cursos virtuales**
 
-[✨ Ver Demo](#-capturas-de-pantalla) • [🚀 Instalación](#-instalación) • [📖 Uso](#-uso)
+[ Ver Demo](#-capturas-de-pantalla) • [ Instalación](#-instalación) • [ Uso](#-uso)
 
 </div>
 
-## 📋 Descripción
+##  Descripción
 
 Sistema web desarrollado en **Java EE** utilizando **JSP** y **Servlets** que implementa un registro de estudiantes para cursos virtuales. La aplicación sigue el patrón **MVC** (Modelo-Vista-Controlador) y simula una base de datos en memoria usando `ArrayList`.
 
 ---
 
-## ✨ Características
+## Características
 
 - ✅ **Formulario de registro** con validación
 - ✅ **Listado dinámico** de estudiantes
@@ -30,6 +30,5 @@ Sistema web desarrollado en **Java EE** utilizando **JSP** y **Servlets** que im
 
 ---
 
-## 🏗️ Arquitectura
+## Arquitectura
 
-### 📂 Estructura del Proyecto
